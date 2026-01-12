@@ -5,9 +5,14 @@ O objetivo é servir como material de estudo e referência para desenvolvedores 
 # Estrutura do Diretório
 
 estruturas-de-dados/
-├── array/
-├── lista/
-├── pilha/
-├── fila/
-└── arvore/
+  |
+    -----array/
+  |
+    -----lista/
+  |
+    -----pilha/
+  |
+    -----fila/
+  |   
+    -----arvore/
 
