@@ -1,11 +1,10 @@
 pilha/
 ├── busca/
-│   └── busca-sequencial-desempilhando/
+│   └── busca-sequencial-desempilhando.c
 │
 ├── insercao/
-│   └── adicionar-no-topo/
-│       └── push (O(1))
+│   └── pilha_push.c
 │
 └── remocao/
-    └── remover-no-topo/
-        └── pop (O(1))
+    └── pilha_pop.c
+      
