@@ -1,23 +1,14 @@
 lista/
 ├── busca/
-│   └── busca-linear/
+│   └── busca-linear.c
 │
 ├── insercao/
-│   ├── adicionar-no-fim/
-│   │   └── O(1) com ponteiro para o fim
-│   │
-│   ├── adicionar-no-meio/
-│   │   └── após nó conhecido (O(1))
-│   │
-│   └── adicionar-no-inicio/
-│       └── O(1)
-│
+│   ├── adicionar-no-fim.c
+│   ├── adicionar-no-meio.c
+│   └── adicionar-no-inicio.c
+│   
 └── remocao/
-    ├── remover-no-fim/
-    │   └── O(n) (lista simples)
-    │
-    ├── remover-no-meio/
-    │   └── O(1) se nó conhecido
-    │
-    └── remover-no-inicio/
-        └── O(1)
+    ├── remover-no-fim.c
+    ├── remover-no-meio.c
+    └── remover-no-inicio.c
+        
