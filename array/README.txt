@@ -1,24 +1,15 @@
 array/
 ├── busca/
-│   ├── busca-linear/
-│   └── busca-binaria/
+│   ├── busca-linear.c
+│   └── busca-binaria.c
 │
 ├── insercao/
-│   ├── adicionar-no-fim/
-│   │   └── O(1) se houver espaço
-│   │
-│   ├── adicionar-no-meio/
-│   │   └── desloca elementos (O(n))
-│   │
-│   └── adicionar-no-inicio/
-│       └── desloca todos os elementos
-│
+│   ├── adicionar-no-fim.c
+│   ├── adicionar-no-meio.c
+│   └── adicionar-no-inicio.c
+│       
 └── remocao/
-    ├── remover-no-fim/
-    │   └── O(1)
-    │
-    ├── remover-no-meio/
-    │   └── desloca elementos (O(n))
-    │
-    └── remover-no-inicio/
-        └── O(n)
+    ├── remover-no-fim.c
+    ├── remover-no-meio.c
+    └── remover-no-inicio.c
+    
