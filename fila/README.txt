@@ -1,11 +1,7 @@
 fila/
 ├── busca/
-│   └── busca-sequencial/
-│
+│   └── busca-sequencial.c
 ├── insercao/
-│   └── adicionar-no-fim/
-│       └── enqueue (O(1))
-│
+│   └── fila_enqueue.c
 └── remocao/
-    └── remover-no-inicio/
-        └── dequeue (O(1))
+    └── fila_dequeue.c
